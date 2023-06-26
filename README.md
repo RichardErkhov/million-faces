@@ -1,5 +1,7 @@
 # million-faces
 
+discord channel: https://discord.gg/hzrJBGPpgN
+
 Welcome to "million-faces", one of the largest facesets available to the public. Comprising a staggering one million faces, all images in this dataset are entirely AI-generated. 
 
 Due to the nature of AI-generated images, please be aware that some artifacts may be present in the dataset.
