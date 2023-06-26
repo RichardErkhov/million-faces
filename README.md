@@ -25,3 +25,4 @@ This project is about creating and sharing one of the largest AI-generated faces
 
 - finish and check all uploads
 - use tools to collect information about dataset, such as age and gender
+- fast gace enhancement/upscaling project
