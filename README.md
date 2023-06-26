@@ -20,3 +20,8 @@ Feel free to use this dataset for your projects and research. However, please do
 ## About 
 
 This project is about creating and sharing one of the largest AI-generated facesets. With one million faces, it offers a significant resource for researchers and developers in AI, machine learning, and computer vision. 
+
+## TODO list
+
+- finish and check all uploads
+- use tools to collect information about dataset, such as age and gender
