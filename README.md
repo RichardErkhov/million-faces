@@ -18,7 +18,7 @@ Feel free to use this dataset for your projects and research. However, please do
 - **Source:** AI-generated
 - **Artifacts:** Some images may contain artifacts
 - **Availability:** Almost fully uploaded on Hugging Face
-- **[Link](https://huggingface.co/datasets/RichardErkhov/OneMillionFaces/tree/main)**
+- **[Link](https://huggingface.co/datasets/RichardErkhov/OneMillionFaces)**
 ## About 
 
 This project is about creating and sharing one of the largest AI-generated facesets. With one million faces, it offers a significant resource for researchers and developers in AI, machine learning, and computer vision. 
