@@ -8,6 +8,8 @@ Due to the nature of AI-generated images, please be aware that some artifacts ma
 
 The dataset is currently being uploaded to Hugging Face, a renowned platform for hosting datasets and models for the machine learning community.
 
+Some of the useful information may be found in the paper linked below. 
+
 ## Usage 
 
 Feel free to use this dataset for your projects and research. However, please do not hold me liable for any issues that might arise from its use. If you use this dataset and create something amazing, consider linking back to this GitHub project. Recognition of work is a pillar of the open-source community!
