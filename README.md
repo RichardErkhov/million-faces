@@ -29,4 +29,4 @@ This project is about creating and sharing one of the largest AI-generated faces
 - finish and check all uploads
 - expand analysis of the dataset
 - fast face enhancement/upscaling project
-- publish the paper on arxiv
+- publish the paper on arxiv, endorsment needed
