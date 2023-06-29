@@ -17,7 +17,7 @@ Feel free to use this dataset for your projects and research. However, please do
 - **Number of faces:** 1,000,000
 - **Source:** AI-generated
 - **Artifacts:** Some images may contain artifacts
-- **Availability:** Almost fully uploaded on Hugging Face
+- **Availability:** Fully uploaded on Hugging Face
 - **[Link](https://huggingface.co/datasets/RichardErkhov/OneMillionFaces)**
 - **[paper](https://github.com/RichardErkhov/million-faces/blob/main/Analysis%20of%20the%20Dataset.pdf)**
 ## About 
@@ -26,7 +26,6 @@ This project is about creating and sharing one of the largest AI-generated faces
 
 ## TODO list
 
-- finish and check all uploads
 - expand analysis of the dataset
 - fast face enhancement/upscaling project
 - publish the paper on arxiv, endorsment needed
